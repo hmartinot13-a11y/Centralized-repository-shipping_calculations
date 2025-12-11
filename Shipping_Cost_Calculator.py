@@ -10,3 +10,5 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+ # Here is a new update by https://github.com/hmartinot13-a11y/LogisticsShippingRates.git
+ # Here is a new update by https://github.com/ibm-developer-skills-network/Centralized-repository-shipping_calculations.git
